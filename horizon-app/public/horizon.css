@@ -1,0 +1,47 @@
+
+.bg-color {
+    background-color: teal;
+}
+a {
+    color: white;
+}
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+.fitting {
+    max-width: inherit;
+    max-height: inherit;
+    height: inherit;
+    width: inherit;
+    object-fit: cover;
+  }
+  .interior {
+    margin-top: 120px;
+  }
+  .box {
+    max-width: 20%;
+    border: .5px solid grey;
+    margin-right: 50px;
+}
+  
+  /*.set {
+    justify-content: space-between;
+  }*/
+  .footer {
+    background-color: teal;
+    margin-top: 50px;
+    color: white;
+  }
+  .aboutname {
+    margin-bottom: 70px;
+  }
+  .navsn {
+    margin-left: 1000px;
+  }
+.archi {
+   width: 70px;
+   height: 40px;
+}
